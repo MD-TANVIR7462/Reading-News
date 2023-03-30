@@ -3,7 +3,7 @@ import React from 'react';
 const Nav = () => {
    return (
       <div>
-         <nav className="bg-pink-200 border-gray-200 dark:bg-gray-900 rounded-md">
+         <nav className="bg-pink-200 mb-2 border-gray-200 dark:bg-gray-900 rounded-md">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <p className="flex items-center">
       <img src="https://flowbite.com/docs/images/logo.svg" className="h-8 mr-3" alt="Flowbite Logo" />
