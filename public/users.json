@@ -1,41 +1,40 @@
 [
     {
         "id": "1111",
-        "Author name": "Mr. Raju",
+        "Authorname": "Mr. Raju",
         "BlogTitle": "How To Become A full Stack Developer!!",
-        "Publish date":  "Mar 18 2022",
-        "Read time": 5,
-        "Authorimg": "./man (1).png",
+        "Publishdate":  "Mar 18 2022",
+        "Readtime": 5,
+        "Authorimg": "./users/man-user-svgrepo-com.svg",
         "BlogCoverImg":"./Cover/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg"
        
     },
     {
         "id": "2222",
-        "Author name": "Mr. Sohag",
+        "Authorname": "Mr. Sohag",
         "BlogTitle": "Everything you Should Lern for Becoming An Web Developer!! ",
-        "Publish date": "Mar 14 2022",
-        "Read time": 10,
-        "Authorimg": "./man (1).png",
+        "Publishdate": "Mar 14 2022",
+        "Readtime": 10,
+        "Authorimg": "./users/man (1).png",
         "BlogCoverImg":"./Cover/max-duzij-qAjJk-un3BI-unsplash.jpg"
     },
     {
         "id": "3333",
-        "Author-Name": "Mr. Tanvir",
+        "Authorname": "Mr. Tanvir",
         "BlogTitle": "How to get your first job as a self-taught programmer!!",
-        "Publish-Date": "Mar 13 2022",
-        "Read time": 12,
-        "Authorimg": "./man (1).png",
-    
+        "Publishdate": "Mar 13 2022",
+        "Readtime": 12,
+        "Authorimg": "./users/man.png",
         "BlogCoverImg":"./Cover/oskar-yildiz-gy08FXeM2L4-unsplash.jpg"
        
     },
     {
         "id": "4444",
-        "Author name": "Mr. Evan",
+        "Authorname": "Mrs. Rehana ",
         "BlogTitle": "Master Microsoft Power Platform and Become an In-Demand!!",
-        "Publish date":  "Mar 18 2022",
-        "Read time": 15,
-        "Authorimg": "./man (1).png",
+        "Publishdate":  "Mar 18 2022",
+        "Readtime": 15,
+        "Authorimg": "./users/user.png",
         "BlogCoverImg":"./Cover/blake-connally-IKUYGCFmfw4-unsplash.jpg"
        
     }
