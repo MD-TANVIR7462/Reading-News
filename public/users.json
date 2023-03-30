@@ -6,7 +6,7 @@
         "Publish date":  "Mar 18 2022",
         "Read time": 5,
         "Authorimg": "./man (1).png",
-        "BlogCoverImg": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "BlogCoverImg":"./Cover/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg"
        
     },
     {
@@ -16,8 +16,7 @@
         "Publish date": "Mar 14 2022",
         "Read time": 10,
         "Authorimg": "./man (1).png",
-        "BlogCoverImg": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
-       
+        "BlogCoverImg":"./Cover/max-duzij-qAjJk-un3BI-unsplash.jpg"
     },
     {
         "id": "3333",
@@ -27,7 +26,7 @@
         "Read time": 12,
         "Authorimg": "./man (1).png",
     
-        "BlogCoverImg": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "BlogCoverImg":"./Cover/oskar-yildiz-gy08FXeM2L4-unsplash.jpg"
        
     },
     {
@@ -37,7 +36,7 @@
         "Publish date":  "Mar 18 2022",
         "Read time": 15,
         "Authorimg": "./man (1).png",
-        "BlogCoverImg": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "BlogCoverImg":"./Cover/blake-connally-IKUYGCFmfw4-unsplash.jpg"
        
     }
     

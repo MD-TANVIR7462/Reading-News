@@ -1,5 +1,5 @@
 
-import '../public/Profile-Icon-SVG-09856789.svg'
+
 import './App.css'
 import Main from './components/Main/Main'
 import Nav from './components/Nav/Nav'
