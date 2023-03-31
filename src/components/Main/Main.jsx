@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import SideCart from '../side-Chart/SideCart';
 import SingelBlog from '../Singel-Blog/SingelBlog';
 
 const Main = () => {
@@ -20,13 +21,10 @@ const Main = () => {
          </div>
 
 
-         <div className='md:col-span-1'>
+         <div className='md:col-span-1 '>
 
 
-            <div class="w-full max-w-md p-4 bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
-              
-            </div>
-
+          <SideCart></SideCart>
          </div>
 
 
