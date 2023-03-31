@@ -36,7 +36,7 @@ const Main = () => {
 
       const newTime = time + props
       setTime(newTime)
-
+console.log(newTime)
    }
 
    return (
