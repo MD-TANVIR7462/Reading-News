@@ -5,12 +5,14 @@ const SideCart = (props) => {
 
    const BookmarkedLength = Bookmarked.length
 
+const time = props.time
+
    return (
-      <div>
+      <div className='sticky top-1'>
 
-         <p className=' class="w-full  p-4    bg-purple-200 border-2 border-purple-400 rounded-lg  shadow-md text-center font-bold text-lg text-purple-700 "'>
+         <p className=' class="w-full  p-4  mb-2  bg-purple-200 border-2 border-purple-400 rounded-lg  shadow-md text-center font-bold text-lg text-purple-700 "'>
 
-         Spent time on read :{}
+         Spent time on read :{time}
 
          </p>
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Nav = () => {
    return (
-      <div>
+      <div >
          <nav className="bg-pink-200 mt-1 border-gray-200 dark:bg-gray-900 rounded-md">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <p className="flex items-center">

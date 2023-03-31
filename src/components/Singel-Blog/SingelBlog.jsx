@@ -4,20 +4,21 @@ const SingelBlog = (props) => {
 
 
 const setChartDetailes=props.setChartDetailes
+const timer=props.timer
 
-function timer (){
-   console.log('dkjflsdlkj')
-}
+
+
+
+
 
 
    return (
-
-      <div class="max-w-2xl mb-4 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+      <div class="max-w-2xl mb-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
 
          <img class="rounded-t-lg" src={BlogCoverImg} alt="" />
 
          <div class="p-5">
-            <div className='flex justify-between'>
+            <div className='flex justify-between '>
             <p className='flex gap-4 items-cente mb-5'>
                <img className="w-10 h-10 rounded-full" src={Authorimg} alt="" />
                <span>  <p className='font-bold'>{Authorname}</p>
@@ -36,7 +37,7 @@ function timer (){
             <h5 class="mb-2 text-base md:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{BlogTitle}  
             </h5>
 
-            <button type="button" class="focus:outline-none text-blue-800  font-medium rounded-lg text-sm  px-1  hover:bg-purple-200  py-2.5 mb-2 "> <span className='underline font-bold'onClick={timer } >Mark as read</span></button>
+            <button type="button" class="focus:outline-none text-blue-800  font-medium rounded-lg text-sm  px-1  hover:bg-purple-200  py-2.5 mb-2 "> <span className='underline font-bold'onClick={()=>timer(Readtime) } >Mark as read</span></button>
 
          </div>
       </div>
