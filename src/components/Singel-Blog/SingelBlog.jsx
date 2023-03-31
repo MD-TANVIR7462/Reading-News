@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 const SingelBlog = (props) => {
    const { id, Authorname, BlogTitle, Publishdate, Readtime, Authorimg, BlogCoverImg } = props.user
    const setChartDetailes = props.setChartDetailes
@@ -26,7 +28,7 @@ const SingelBlog = (props) => {
                <p className='flex items-center'>
                   <span className='text-slate-700 mr-2'>{Readtime} min read</span>
 
-                  <button type="button" class="p-2 text-gray-900 focus:outline-none hover:bg-pink-300 focus:ring-4 focus:ring-gray-200 font-medium rounded-md text-sm  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700 " onClick={() => setChartDetailes(props.user)}> <img className='w-5 h-4 ' src="../../../public/bookmark-regular.svg" alt="" /></button>
+                  <button type="button" class="px-2 py-1 text-gray-900 focus:outline-none hover:bg-pink-300 focus:ring-4 focus:ring-gray-200 font-medium rounded-md text-sm  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700 " onClick={() => setChartDetailes(props.user)}><FontAwesomeIcon icon={faBookmark} /></button>
                </p>
 
 

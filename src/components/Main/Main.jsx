@@ -16,32 +16,6 @@ const Main = () => {
    }, [])
 
 
-
-
-   // const setChartDetailes = (valus) => {
-   //    console.log(valus.id)
-
-
-   //    const newBlog = [...selectedBlogs, valus]
-   //    newBlog.map(n=>tostify(n.id)  )
-
-   //    function tostify(id){ 
-   //       //   console.log(id)
-   //         let toastify = selectedBlogs.find(ExistBlog=>ExistBlog.id === id)
-   //         console.log(toastify)
-   //         if(toastify){
-   //          // setselectedBlogs(newBlog)
-   //          return toast("Wow so easy!")
-
-
-   //         }
-   //         else{ setselectedBlogs(newBlog)
-
-   //         }
-
-   //       }
-
-   // }
    const setChartDetailes = (valus) => {
       // console.log(valus.id)
       const exixst = selectedBlogs.find(element => element.id === valus.id)
