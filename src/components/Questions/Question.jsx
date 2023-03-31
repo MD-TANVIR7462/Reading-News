@@ -7,7 +7,7 @@ const Question = () => {
 
          
 <div className='"max-w-2xl mb-4 p-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"'>
-            <p className='text-center bg-purple-200 border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-lg text-purple-700 '>
+            <p className='text-center bg-purple-200 border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-sm md:text-lg text-purple-700 '>
             what is the deference beetween props and state in react??
             </p>
             
@@ -20,7 +20,7 @@ const Question = () => {
            
          </div>
 <div className='"max-w-2xl mb-4 p-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"'>
-            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-lg text-purple-700 '>
+            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-sm md:text-lg text-purple-700 '>
             How useState works in React??
             </p>
             
@@ -33,7 +33,7 @@ const Question = () => {
            
          </div>
 <div className='"max-w-2xl mb-4 p-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"'>
-            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-lg text-purple-700 '>
+            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-sm md:text-lg text-purple-700 '>
          What can we do by useEffect in React??
             </p>
             
@@ -52,7 +52,7 @@ const Question = () => {
            
          </div>
 <div className='"max-w-2xl mb-4 p-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"'>
-            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-lg text-purple-700 '>
+            <p className='text-center bg-purple-200  border-2 border-purple-400 rounded-lg  shadow-md w-4/6 mb-2 m-auto font-bold text-sm md:text-lg text-purple-700 '>
             How Does React Works??
             </p>
             

@@ -2,6 +2,8 @@ import React from 'react';
 import SingleBook from '../singleBookmark/SingleBook';
 const SideCart = (props) => {
    const Bookmarked = props.selectedBlogs
+   // console.log(Bookmarked)
+//   Bookmarked.map(b=>console.log(b.id))
 
    const BookmarkedLength = Bookmarked.length
 
