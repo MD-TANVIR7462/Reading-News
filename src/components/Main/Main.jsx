@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import SideCart from '../side-Chart/SideCart';
 import SingelBlog from '../Singel-Blog/SingelBlog';
-import TimeCounter from '../time-counter/TimeCounter';
+
 
 const Main = () => {
    const [users, setUsers] = useState([])
@@ -31,7 +31,6 @@ const Main = () => {
 
 
          <div className='md:col-span-1 '>
-            <TimeCounter></TimeCounter>
             <SideCart selectedBlogs={selectedBlogs} ></SideCart>
          </div>
 

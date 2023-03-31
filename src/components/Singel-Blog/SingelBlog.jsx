@@ -5,7 +5,9 @@ const SingelBlog = (props) => {
 
 const setChartDetailes=props.setChartDetailes
 
-
+function timer (){
+   console.log('dkjflsdlkj')
+}
 
 
    return (
@@ -25,7 +27,7 @@ const setChartDetailes=props.setChartDetailes
             <p className='flex items-center'>
             <span className='text-slate-700 mr-2'>{Readtime} min read</span> 
               
-               <button type="button" class="text-gray-900 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-md text-sm  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700 "> <img  className='w-5 h-4 ' src="../../../public/bookmark-regular.svg" alt=""  onClick={()=>setChartDetailes(props.user)} /></button>
+               <button type="button" class="p-2 text-gray-900 focus:outline-none hover:bg-pink-300 focus:ring-4 focus:ring-gray-200 font-medium rounded-md text-sm  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700 "  onClick={()=>setChartDetailes(props.user)}> <img  className='w-5 h-4 ' src="../../../public/bookmark-regular.svg" alt=""  /></button>
             </p>
            
 
@@ -34,7 +36,7 @@ const setChartDetailes=props.setChartDetailes
             <h5 class="mb-2 text-base md:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{BlogTitle}  
             </h5>
 
-            <button type="button" class="focus:outline-none text-blue-800  font-medium rounded-lg text-sm  px-1  hover:bg-purple-200  py-2.5 mb-2 "> <span className='underline font-bold' >Mark as read</span></button>
+            <button type="button" class="focus:outline-none text-blue-800  font-medium rounded-lg text-sm  px-1  hover:bg-purple-200  py-2.5 mb-2 "> <span className='underline font-bold'onClick={timer } >Mark as read</span></button>
 
          </div>
       </div>
