@@ -4,9 +4,9 @@
         "Authorname": "Mr. Raju",
         "BlogTitle": "How To Become A full Stack Developer!!",
         "Publishdate":  "Mar 18 2022",
-        "Readtime": 5,
-        "Authorimg": "./users/man-user-svgrepo-com.svg",
-        "BlogCoverImg":"./Cover/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg"
+        "Readtime": 10,
+        "Authorimg": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "BlogCoverImg":"https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
        
     },
     {
@@ -14,9 +14,10 @@
         "Authorname": "Mr. Sohag",
         "BlogTitle": "Everything you Should Lern for Becoming An Web Developer!! ",
         "Publishdate": "Mar 14 2022",
-        "Readtime": 10,
-        "Authorimg": "./users/man (1).png",
-        "BlogCoverImg":"./Cover/max-duzij-qAjJk-un3BI-unsplash.jpg"
+        "Readtime": 14,
+        "Authorimg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "BlogCoverImg":"https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80"
+        
     },
     {
         "id": "3333",
@@ -24,18 +25,19 @@
         "BlogTitle": "How to get your first job as a self-taught programmer!!",
         "Publishdate": "Mar 13 2022",
         "Readtime": 12,
-        "Authorimg": "./users/man.png",
-        "BlogCoverImg":"./Cover/oskar-yildiz-gy08FXeM2L4-unsplash.jpg"
-       
+        "Authorimg": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "BlogCoverImg":"https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      
     },
     {
         "id": "4444",
-        "Authorname": "Mrs. Rehana ",
+        "Authorname": "Mr. Raihan ",
         "BlogTitle": "Master Microsoft Power Platform and Become an In-Demand!!",
         "Publishdate":  "Mar 18 2022",
         "Readtime": 15,
-        "Authorimg": "./users/user.png",
-        "BlogCoverImg":"./Cover/blake-connally-IKUYGCFmfw4-unsplash.jpg"
+        "Authorimg": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+       
+        "BlogCoverImg":"https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
        
     }
     
