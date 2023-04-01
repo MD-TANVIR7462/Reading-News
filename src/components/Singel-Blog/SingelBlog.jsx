@@ -13,11 +13,11 @@ const SingelBlog = (props) => {
 
 
    return (
-      <div class="max-w-2xl mb-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+      <div className="max-w-2xl mb-4  bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
 
-         <img class="rounded-t-lg" src={BlogCoverImg} alt="" />
+         <img className="rounded-t-lg" src={BlogCoverImg} alt="" />
 
-         <div class="p-5">
+         <div className="p-5">
             <div className='flex justify-between '>
                <p className='flex gap-4 items-cente mb-5'>
                   <img className="w-10 h-10 rounded-full" src={Authorimg} alt="" />
